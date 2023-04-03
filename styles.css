@@ -1,7 +1,23 @@
+h1 {
+    color: blue;
+    margin-left: 5%;
+    }
 
+div.dramalist {
+    display: block;
+    background-size: 50% auto;
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+    padding-left: 10px;
+    }
+p {
+    margin-left: 8%;
+    padding: 5px;
+    }
 .top10 {
-    color: purple;
-    margin-left: 30px;
+    color: hotpink ;
+    margin-left: 15%;
     }
 
 ul {
@@ -11,12 +27,16 @@ ul {
 
 .drama1 {
     background-color:aliceblue;
+    border: 5px solid white;
+    border-radius: 10px;
     padding: 5px;
     margin: auto;
     }
 
 .drama2 {
     background-color: antiquewhite;
+    border: 5px solid white;
+    border-radius: 10px;
     padding: 5px;
     margin-right: auto;
     }
@@ -24,11 +44,15 @@ ul {
 .drama3 {
     padding: 5px;
     margin: auto;
+    border: 5px solid white;
+    border-radius: 10px;
     background-color:aliceblue;
     }
 
 .drama4 {
     background-color: antiquewhite;
+    border: 5px solid white;
+    border-radius: 10px;
     padding: 5px;
     margin: auto;
     }
@@ -36,11 +60,15 @@ ul {
 .drama5 {
     padding: 5px;
     margin: auto;
+    border: 5px solid white;
+    border-radius: 10px;
     background-color:aliceblue;
     }
 
 .drama6 {
     background-color: antiquewhite;
+    border: 5px solid white;
+    border-radius: 10px;
     padding: 5px;
     margin: auto;
     }
@@ -48,6 +76,8 @@ ul {
 .drama7 {
     padding: 5px;
     margin: auto;
+    border: 5px solid white;
+    border-radius: 10px;
     background-color:aliceblue;
     }
 
@@ -55,11 +85,15 @@ ul {
     background-color: antiquewhite;
     padding: 5px;
     margin: auto;
+    border: 5px solid white;
+    border-radius: 10px;
     }
 
 .drama9 {
     padding: 5px;
     margin: auto;
+    border: 5px solid white;
+    border-radius: 10px;
     background-color:aliceblue;
     }
 
@@ -67,16 +101,6 @@ ul {
     background-color: antiquewhite;
     padding: 5px;
     margin: auto;
+    border: 5px solid white;
+    border-radius: 10px;
     }
-
-.dramalist {
-    display: block;
-    background-size: 50% auto;
-    width: 50%;
-    text-align: center;
-    margin-left: 10px;
-    padding-left: 10px;
-}
-p {
-    margin-left: 20px;
-}
