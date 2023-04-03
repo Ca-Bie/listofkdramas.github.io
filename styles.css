@@ -1,0 +1,56 @@
+ul {
+    list-style-type: none;
+    list-style-position: inherit;
+}
+
+.top10 {
+    color: purple;
+}
+
+.drama1 {
+    background-color:aliceblue;
+    padding: auto;
+    margin: auto;
+    }
+
+.drama2 {
+    padding: auto;
+    margin: auto;
+    }
+.drama3 {
+    padding: auto;
+    margin: auto;
+    background-color:aliceblue;
+    }
+.drama4 {
+    padding: auto;
+    margin: auto;
+    background-color:aliceblue;
+    }
+.drama5 {
+    padding: auto;
+    margin: auto;
+    background-color:aliceblue;
+    }
+.drama6 {
+    padding: auto;
+    margin: auto;
+    }
+.drama7 {
+    padding: auto;
+    margin: auto;
+    background-color:aliceblue;
+    }
+.drama8 {
+    padding: auto;
+    margin: auto;
+    }
+.drama9 {
+    padding: auto;
+    margin: auto;
+    background-color:aliceblue;
+    }
+.drama10 {
+    padding: auto;
+    margin: auto;
+    }
