@@ -1,56 +1,69 @@
-ul {
-    list-style-type: none;
-    list-style-position: inherit;
-}
 
 .top10 {
     color: purple;
-}
+    }
+
+ul {
+    display: block;
+    list-style-type: none;
+    }
 
 .drama1 {
     background-color:aliceblue;
-    padding: auto;
+    padding: 5px;
     margin: auto;
     }
 
 .drama2 {
-    padding: auto;
+    background-color: antiquewhite;
+    padding: 5px;
     margin: auto;
     }
+
 .drama3 {
-    padding: auto;
+    padding: 5px;
     margin: auto;
     background-color:aliceblue;
     }
+
 .drama4 {
-    padding: auto;
+    background-color: antiquewhite;
+    padding: 5px;
     margin: auto;
-    background-color:aliceblue;
     }
+
 .drama5 {
-    padding: auto;
+    padding: 5px;
     margin: auto;
     background-color:aliceblue;
     }
+
 .drama6 {
-    padding: auto;
+    background-color: antiquewhite;
+    padding: 5px;
     margin: auto;
     }
+
 .drama7 {
-    padding: auto;
+    padding: 5px;
     margin: auto;
     background-color:aliceblue;
     }
+
 .drama8 {
-    padding: auto;
+    background-color: antiquewhite;
+    padding: 5px;
     margin: auto;
     }
+
 .drama9 {
-    padding: auto;
+    padding: 5px;
     margin: auto;
     background-color:aliceblue;
     }
+
 .drama10 {
-    padding: auto;
+    background-color: antiquewhite;
+    padding: 5px;
     margin: auto;
     }
